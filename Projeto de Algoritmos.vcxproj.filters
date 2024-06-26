@@ -15,16 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
+    <ClInclude Include="include\Corpo.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Estruturas.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Estruturas.h">
+    <ClCompile Include="src\Estruturas.cpp">
       <Filter>Arquivos de Origem</Filter>
-    </ClInclude>
-    <ClInclude Include="Corpo.h">
+    </ClCompile>
+    <ClCompile Include="src\Main.cpp">
       <Filter>Arquivos de Origem</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>

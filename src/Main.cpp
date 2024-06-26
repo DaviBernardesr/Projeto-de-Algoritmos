@@ -7,8 +7,8 @@
 #include <vector>
 #include <cstdio>
 #include <windows.h>
-#include "Estruturas.h"
-#include "Corpo.h"
+#include "D:\Arquivos\UFV\PROJETO DE ALGORÍTMOS\Projeto de Algoritmos\include\Estruturas.h"
+#include "D:\Arquivos\UFV\PROJETO DE ALGORÍTMOS\Projeto de Algoritmos\include\Corpo.h"
 #include <stdio.h>
 
 using namespace std;
