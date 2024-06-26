@@ -1,4 +1,4 @@
-Descrição
+Descrição:
 Este projeto consiste em um sistema de ordenação de números implementado em C++. Ele oferece diferentes algoritmos de ordenação para o usuário escolher, podendo especificar a forma (aleatória, crescente ou decrescente) e a quantidade de números a serem ordenados.
 
 Funcionalidades
